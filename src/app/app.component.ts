@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+
 import ReactHelper from './uir.jsx'
 
 // class Hello extends React.Component {
